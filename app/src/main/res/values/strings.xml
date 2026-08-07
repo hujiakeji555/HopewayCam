@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">有我看家</string>
+    <string name="nav_alarm">告警</string>
+    <string name="nav_cloud">云存储</string>
+    <string name="nav_gallery">相册</string>
+    <string name="nav_settings">设置</string>
+    <string name="add_device">添加设备</string>
+    <string name="no_device">暂无设备，点击右上角添加</string>
+    <string name="online">在线</string>
+    <string name="offline">离线</string>
+    <string name="screenshot">截图</string>
+    <string name="record">录像</string>
+    <string name="talkback">对讲</string>
+    <string name="alarm_message">告警消息</string>
+    <string name="cloud_service">云存储服务</string>
+    <string name="settings">设置</string>
+    <string name="ai_analytics">AI分析</string>
+    <string name="dashboard">看板</string>
+    <string name="loading">加载中…</string>
+</resources>
